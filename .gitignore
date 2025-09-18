@@ -1,7 +1,8 @@
 *.pyc
 concorde/_concorde.c
 
-build/
+build/*
+!build/concorde.tgz
 concorde.egg-info/
 
 
